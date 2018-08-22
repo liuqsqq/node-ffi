@@ -9,8 +9,6 @@
 *.lo
 *.Makefile
 *.target.gyp.mk
-build
-Release
 Debug
 node_modules
 Makefile.gyp
